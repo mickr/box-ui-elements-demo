@@ -78,5 +78,8 @@
     "last 2 Edge versions",
     "last 2 iOS versions",
     "IE 11"
-  ]
+  ],
+  "dependencies": {
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0"
+  }
 }
